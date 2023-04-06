@@ -85,6 +85,9 @@
     <!-- Quick Settings footer category -->
     <string name="footer_category">Footer</string>
 
+    <!-- Quick Settings header category -->
+    <string name="header_category">Header</string>
+
     <!-- Statusbar Iten -->
     <string name="statusbar_items_category">Statusbar Items</string>
 
@@ -543,4 +546,7 @@
     <!-- QS footer data usage -->
     <string name="qs_show_data_usage_title">Show data usage</string>
     <string name="qs_show_data_usage_summary">Show daily cellular/Wi-Fi data usage in QS footer</string>
+
+    <!-- QS Header -->
+    <string name="qs_header_image_title">QS Header Image</string>
 </resources>
