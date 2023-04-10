@@ -516,4 +516,8 @@
     <string name="qs_tile_round">Round</string>
     <string name="qs_tile_rect">Rounded Rectangle</string>
     <string name="qs_tile_mix">Round for active tiles and Rounded Rectangle for inactive tiles</string>
+
+    <!-- UDFPS icon accent color -->
+    <string name="udfps_icon_accent_title">Accent color for UDFPS icon</string>
+    <string name="udfps_icon_accent_summary">Apply accent color to UDFPS icon</string>
 </resources>

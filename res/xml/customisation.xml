@@ -80,6 +80,12 @@
             android:summary="@string/udfps_icon_picker_summary"
             android:fragment="org.derpfest.derpspace.fragments.UdfpsIconPicker" />
 
+        <org.derpfest.support.preferences.SystemSettingSwitchPreference
+            android:key="udfps_icon_accent"
+            android:title="@string/udfps_icon_accent_title"
+            android:summary="@string/udfps_icon_accent_summary"
+            android:defaultValue="false" />
+
         <Preference
             android:key="udfps_recognizing_animation_preview"
             android:title="@string/udfps_recog_animation_effect_title"

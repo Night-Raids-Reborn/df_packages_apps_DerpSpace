@@ -471,4 +471,8 @@
     <string name="qs_tile_round">Rund</string>
     <string name="qs_tile_rect">Rechteck mit abgerundeten Ecken</string>
     <string name="qs_tile_mix">Rund für aktive Kacheln und abgerundetes Rechteck für inaktive Kacheln</string>
+
+    <!-- UDFPS icon accent color -->
+    <string name="udfps_icon_accent_title">Akzentfarbe für UDFPS-Symbol</string>
+    <string name="udfps_icon_accent_summary">Akzentfarbe auf das UDFPS-Symbol anwenden</string>
 </resources>
