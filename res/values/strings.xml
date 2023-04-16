@@ -511,6 +511,11 @@
     <string name="location_privacy_indicator_title">Location privacy indicator</string>
     <string name="location_privacy_indicator_summary">Show separate indicator when an any app uses location</string>
 
+    <!-- QS panel -->
+    <string name="qs_panel_options_title">QS tiles layout</string>
+    <string name="qs_panel_options_summary">Customize tiles layout in QS panel</string>
+    <string name="category_name_qs_tiles">QS tiles</string>
+
     <!-- QS tile shape -->
     <string name="qs_tile_shape">QS tile shape</string>
     <string name="qs_tile_round">Round</string>

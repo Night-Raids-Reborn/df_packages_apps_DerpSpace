@@ -466,6 +466,11 @@
     <string name="projection_privacy_indicator_title">Anzeige bei Streamen des Bildschirms</string>
     <string name="projection_privacy_indicator_summary">Separate Anzeige bei aktivem Streamen des Bildschirms</string>
 
+    <!-- QS panel -->
+    <string name="qs_panel_options_title">Kachel-Layout</string>
+    <string name="qs_panel_options_summary">Anpassen des Kachel-Layouts der Schnelleinstellungen</string>
+    <string name="category_name_qs_tiles">Kacheln</string>
+
     <!-- QS tile shape -->
     <string name="qs_tile_shape">Kachelform</string>
     <string name="qs_tile_round">Rund</string>
