@@ -21,22 +21,21 @@
     <org.derpfest.support.preferences.SystemSettingSwitchPreference
         android:key="status_bar_logo"
         android:title="@string/status_bar_logo_title"
-        android:summary="@string/status_bar_logo_summary"
-        android:defaultValue="false" />
+        android:summary="@string/status_bar_logo_summary" />
 
-    <org.derpfest.support.preferences.SystemSettingIntListPreference
+    <org.derpfest.support.preferences.SystemSettingListPreference
         android:key="status_bar_logo_position"
         android:title="@string/status_bar_logo_position_title"
         android:entries="@array/status_bar_logo_position_entries"
         android:entryValues="@array/status_bar_logo_position_values"
-        android:dependency="status_bar_logo"
-        android:defaultValue="0" />
+        android:defaultValue="0"
+        android:dependency="status_bar_logo" />
 
-    <org.derpfest.support.preferences.SystemSettingIntListPreference
+    <org.derpfest.support.preferences.SystemSettingListPreference
         android:key="status_bar_logo_style"
         android:title="@string/status_bar_logo_style_title"
         android:entries="@array/status_bar_logo_style_entries"
         android:entryValues="@array/status_bar_logo_style_values"
-        android:dependency="status_bar_logo"
-        android:defaultValue="0" />
+        android:defaultValue="0"
+        android:dependency="status_bar_logo" />
 </PreferenceScreen>
