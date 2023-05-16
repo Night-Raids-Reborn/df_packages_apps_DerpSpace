@@ -552,4 +552,8 @@
     <string name="brightness_slider_style_default">Standard</string>
     <string name="brightness_slider_style_filled">Gefüllt</string>
     <string name="brightness_slider_style_thin">Dünn</string>
+
+    <!-- Lockscreen Clock -->
+    <string name="lockscreen_clock_title">Uhr</string>
+    <string name="kg_custom_clock_top_margin_title">Position der Zweizeiligen Uhr</string>
 </resources>
