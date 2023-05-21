@@ -79,7 +79,7 @@
             android:max="250"
             settings:min="25"
             settings:interval="1"
-            android:defaultValue="180"
+            android:defaultValue="250"
             settings:units="@string/unit_pixels" />
 
     </PreferenceCategory>
