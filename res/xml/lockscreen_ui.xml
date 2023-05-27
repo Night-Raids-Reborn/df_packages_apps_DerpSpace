@@ -64,24 +64,6 @@
             android:defaultValue="280"
             settings:units="@string/unit_pixels" />
 
-        <org.derpfest.support.preferences.SecureSettingSeekBarPreference
-            android:key="kg_small_clock_text_size"
-            android:title="@string/kg_small_clock_text_size_title"
-            android:max="100"
-            settings:min="25"
-            settings:interval="1"
-            android:defaultValue="86"
-            settings:units="@string/unit_pixels" />
-
-        <org.derpfest.support.preferences.SecureSettingSeekBarPreference
-            android:key="kg_large_clock_text_size"
-            android:title="@string/kg_large_clock_text_size_title"
-            android:max="250"
-            settings:min="25"
-            settings:interval="1"
-            android:defaultValue="180"
-            settings:units="@string/unit_pixels" />
-
     </PreferenceCategory>
 
     <PreferenceCategory
