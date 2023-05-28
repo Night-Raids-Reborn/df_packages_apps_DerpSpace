@@ -561,6 +561,13 @@
     <string name="brightness_slider_style_thin">Thin</string>
     <string name="brightness_slider_style_bang">Bang</string>
     <string name="brightness_slider_style_acun">Acun</string>
+    <string name="brightness_slider_style_cyberpunk">Blocky Thumb</string>
+    <string name="brightness_slider_style_outline">Outline</string>
+    <string name="brightness_slider_style_shaded">Shaded</string>
+    <string name="brightness_slider_style_translucent">Transparent</string>
+    <string name="brightness_slider_style_leafyoutline">Leafy Outline</string>
+    <string name="brightness_slider_style_minimalthumb">Minimal Thumb</string>
+    <string name="brightness_slider_style_roundedclip">Rounded clip</string>
 
     <!-- QS tiles layout direction: vertical or horizontal -->
     <string name="qs_tile_layout_category_title">Tile layout</string>

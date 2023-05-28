@@ -412,6 +412,13 @@
         <item>@string/brightness_slider_style_thin</item>
         <item>@string/brightness_slider_style_bang</item>
         <item>@string/brightness_slider_style_acun</item>
+        <item>@string/brightness_slider_style_cyberpunk</item>
+        <item>@string/brightness_slider_style_outline</item>
+        <item>@string/brightness_slider_style_shaded</item>
+        <item>@string/brightness_slider_style_translucent</item>
+        <item>@string/brightness_slider_style_leafyoutline</item>
+        <item>@string/brightness_slider_style_minimalthumb</item>
+        <item>@string/brightness_slider_style_roundedclip</item>
     </string-array>
 
     <string-array name="brightness_slider_style_values">
@@ -420,6 +427,13 @@
         <item>2</item>
         <item>3</item>
         <item>4</item>
+        <item>5</item>
+        <item>6</item>
+        <item>7</item>
+        <item>8</item>
+        <item>9</item>
+        <item>10</item>
+        <item>11</item>
     </string-array>
 
     <string-array name="qs_styles_entries" translatable="false">
