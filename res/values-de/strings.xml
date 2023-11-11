@@ -176,10 +176,6 @@
     <string name="theme_customization_signal_icon_title">Mobilfunksymbole</string>
     <string name="theme_customization_signal_icon_summary">Stil für Mobilfunksymbole festlegen</string>
 
-    <!-- Black theme -->
-    <string name="system_black_theme_title">Schwarzes Design verwenden</string>
-    <string name="system_black_theme_summary">Schwarze Hintergrundfarben erzwingen</string>
-
     <!-- reTicker -->
     <string name="reticker_title">reTicker</string>
     <string name="reticker_summary">Ersetzen Sie Ihre Benachrichtigungen durch eine neu gestaltete Version vom Ticker. \nSchmal und weniger invasiv als eine Standardbenachrichtigung.</string>

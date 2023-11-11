@@ -181,10 +181,6 @@
     <string name="theme_customization_signal_icon_title">Signal icons</string>
     <string name="theme_customization_signal_icon_summary">Set signal icons style</string>
 
-    <!-- Black theme -->
-    <string name="system_black_theme_title">Use black theme</string>
-    <string name="system_black_theme_summary">Force black background colors</string>
-
     <!-- reTicker -->
     <string name="reticker_category" translatable="false">reTicker</string>
     <string name="reticker_title">reTicker</string>
