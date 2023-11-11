@@ -354,15 +354,6 @@
     <string name="status_bar_clock_auto_hide_title">Automatisch ausblenden</string>
     <string name="status_bar_clock_auto_hide_summary">Uhr auf dem Startbildschirm ausblenden</string>
 
-    <!-- Ambient battery bar settings -->
-    <string name="ambient_ui">Ambient/Always on display</string>
-    <string name="ambient_battery_settings_title">Akkustandbalken</string>
-    <string name="ambient_battery_settings_summary">Akkustandbalken auf dem Ambient Display anzeigen</string>
-    <string name="keyguard_show_battery_title">Akkustandbalken beim Laden</string>
-    <string name="keyguard_show_battery_summary">Während des Ladevorgangs einen Akkustandbalken auf dem Ambient Display anzeigen</string>
-    <string name="keyguard_show_battery_always_title">Akkustandbalken immer anzeigen</string>
-    <string name="keyguard_show_battery_always_summary">Akkustandbalken immer auf dem Ambient Display anzeigen</string>
-
     <!-- Pulse Gravity and mirror options -->
     <string name="pulse_custom_gravity_title">Gravitation</string>
     <string name="pulse_custom_gravity_bottom">Unten</string>
