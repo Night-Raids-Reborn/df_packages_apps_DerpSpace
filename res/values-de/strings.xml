@@ -438,10 +438,6 @@
     <string name="lockscreen_shortcut_enforce_title">Verknüpfung erzwingen</string>
     <string name="lockscreen_shortcut_enforce_summary">Ausgewählte Verknüpfung als einzige vorhandene Priorität erzwingen\nZeigt nichts an, bis die speziell ausgewählte Verknüpfung verfügbar ist</string>
 
-    <!-- Disable QS -->
-    <string name="disable_qs_title">Schnelleinstellungen auf dem Sperrbildschirm ausblenden</string>
-    <string name="disable_qs_summary">Blendet die Schnelleinstellungen aus, wenn das Gerät gesperrt ist. Deaktiviert nicht die Benachrichtigungsschattierung</string>
-
     <!-- QS brightness slider -->
     <string name="qs_brightness_slider_title">Helligkeitsregler</string>
     <string name="qs_brightness_slider_summary">Helligkeitsregler in den Schnelleinstellungen anpassen</string>

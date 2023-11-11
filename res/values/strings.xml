@@ -444,10 +444,6 @@
     <string name="lockscreen_shortcut_enforce_title">Single shortcut</string>
     <string name="lockscreen_shortcut_enforce_summary">Enforce chosen shortcut to be the only existing priority\nWill show nothing until the specific chosen shortcut is available</string>
 
-    <!-- Disable QS -->
-    <string name="disable_qs_title">Hide QS in secure lockscreen</string>
-    <string name="disable_qs_summary">Hides QS if device is locked. Does not disable notification shade</string>
-
     <!-- QS brightness slider -->
     <string name="qs_brightness_slider_title">Brightness slider</string>
     <string name="qs_brightness_slider_summary">Adjust brightness slider from the Quick Settings</string>
