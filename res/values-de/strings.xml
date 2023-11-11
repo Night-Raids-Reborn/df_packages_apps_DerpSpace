@@ -184,10 +184,6 @@
     <string name="system_black_theme_title">Schwarzes Design verwenden</string>
     <string name="system_black_theme_summary">Schwarze Hintergrundfarben erzwingen</string>
 
-    <!-- Fonts -->
-    <string name="theme_customization_lock_clock_title">Sperrbildschirm-Uhr-Schriftart</string>
-    <string name="theme_customization_lock_clock_summary">Schriftstil der Sperrbildschirm-Uhr einstellen</string>
-
     <!-- Applications fragment -->
     <string name="search">Suche</string>
     <string name="search_apps">Apps suchen</string>
