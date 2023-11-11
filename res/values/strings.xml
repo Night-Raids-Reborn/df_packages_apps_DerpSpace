@@ -469,10 +469,6 @@
     <string name="theme_customization_brightness_slider_title">Brightness slider style</string>
     <string name="theme_customization_brightness_slider_summary">Set custom brightness slider style</string>
 
-    <!-- Navbar styles -->
-    <string name="theme_customization_navbar_title">Navbar style</string>
-    <string name="theme_customization_navbar_summary">Set custom navigation bar style</string>
-
     <!-- Status bar - Battery -->
     <string name="status_bar_battery_category_title">Battery customizations</string>
     <string name="status_bar_battery_style_title">Battery style</string>

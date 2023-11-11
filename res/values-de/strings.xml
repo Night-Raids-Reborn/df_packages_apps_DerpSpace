@@ -463,10 +463,6 @@
     <string name="theme_customization_brightness_slider_title">Stil des Helligkeitsreglers</string>
     <string name="theme_customization_brightness_slider_summary">Benutzerdefinierten Helligkeitsreglerstil festlegen</string>
 
-    <!-- Navbar styles -->
-    <string name="theme_customization_navbar_title">Stil der Navigationsleiste</string>
-    <string name="theme_customization_navbar_summary">Stil der Navigationsleiste anpassen</string>
-
     <!-- Status bar - Battery -->
     <string name="status_bar_battery_category_title">Anpassung der Akkuanzeige</string>
     <string name="status_bar_battery_style_title">Akkudarstellung</string>
