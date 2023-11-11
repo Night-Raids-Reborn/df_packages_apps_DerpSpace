@@ -185,10 +185,6 @@
     <string name="system_black_theme_title">Use black theme</string>
     <string name="system_black_theme_summary">Force black background colors</string>
 
-    <!-- Applications fragment -->
-    <string name="search">Search</string>
-    <string name="search_apps">Search apps</string>
-
     <!-- reTicker -->
     <string name="reticker_category" translatable="false">reTicker</string>
     <string name="reticker_title">reTicker</string>
