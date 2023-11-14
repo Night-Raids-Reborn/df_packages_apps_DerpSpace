@@ -314,9 +314,6 @@
     <!-- Statusbar Clock background chip -->
     <string name="statusbar_clock_chip_title">Hintergrundchip anzeigen</string>
     <string name="statusbar_clock_chip_summary">Akzentuierter Chip hinter der Uhr anzeigen</string>
-    <string name="solid_accent">Einfarbig</string>
-    <string name="outline">Umrisslinie</string>
-    <string name="solid_accent_gradient">Akzentverlauf</string>
 
     <!-- Statusbar colored icons -->
     <string name="statusbar_colored_icons_title">Farbige Symbole</string>
